@@ -133,11 +133,14 @@ We provide pre-trained models for evaluations [here](https://drive.google.com/dr
 ## Citation
 If you found the library useful for your work, please kindly cite our work:
 ```
-@article{Gangli2021BlockConv,
-  title     = {Block Convolution: Towards Memory-Efficient Inference of Large-Scale CNNs on {FPGA}},
-  author    = {Gang Li and Zejian Liu and Fanrong Li and Jian Cheng},
-  journal   = {arXiv preprint arXiv: 2105.08937},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2105.08937},
+@article{Gangli2022BlockConv,  
+    author={Li, Gang and Liu, Zejian and Li, Fanrong and Cheng, Jian},  
+    journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},   
+    title={Block Convolution: Toward Memory-Efficient Inference of Large-Scale CNNs on FPGA},   
+    year={2022},  
+    volume={41},  
+    number={5},  
+    pages={1436-1447},  
+    doi={10.1109/TCAD.2021.3082868}
 }
 ```
