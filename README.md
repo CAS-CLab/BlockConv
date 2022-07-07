@@ -1,5 +1,5 @@
 # BlockConv
-This repository serves as the official code release of the paper [Block Convolution: Towards Memory-Efficient Inference of Large-Scale CNNs on FPGA](https://arxiv.org/abs/2105.08937) (pubilished at TCAD 2021).
+This repository serves as the official code release of the paper [Block Convolution: Towards Memory-Efficient Inference of Large-Scale CNNs on FPGA](https://ieeexplore.ieee.org/document/9438668) (pubilished at TCAD 2021).
 
 <div align=center>
 <img src=block_convolution.png>
